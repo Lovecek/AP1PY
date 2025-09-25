@@ -1,4 +1,7 @@
-# MS_CMD
+# AP1PY
+Python a nástroje pro vývoj
+
+## MS_CMD
 - [x] pozdraví uživatele, vypíše aktuální čas, (1b)
 - [x] vytvoří adresář MujProgram s podadresáři src a info, (1b)
 - [x] dále vytvoří nový podadresář se jménem zadaným uživatelem (využijte SET /P prom="Zadejte promennou: " nebo argument skriptu) a o úspěšnosti této akce informuje uživatele, (1b)
